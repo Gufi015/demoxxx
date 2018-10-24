@@ -1,0 +1,38 @@
+".container": {
+	backgroundColor: "white"
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+"#lblUser":{
+	width: Titanium.UI.SIZE,
+	height: Titanium.UI.SIZE,
+	textAlign:Titanium.UI.TEXT_ALIGNMENT_LEFT,
+	fontSize: '15'
+}
+"#lblPass":{
+	width: Titanium.UI.SIZE,
+	height: Titanium.UI.SIZE,
+	textAlign:Titanium.UI.TEXT_ALIGNMENT_LEFT,
+	fontSize: '15'
+}
+
+"#txtUser":{
+	height: '60dp',
+	width: '180dp',
+	color: 'black',
+	borderColor: 'blue',
+	borderRadius: 3,
+}
+
+"#txtPass":{
+	height: '60dp',
+	width: '180dp',
+	color: 'black',
+	borderColor: 'blue',
+	borderRadius: 3,
+}

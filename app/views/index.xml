@@ -1,0 +1,12 @@
+<Alloy>
+	<Window class="container">
+
+		<Label id="lblUser" top="5%">Usuario</Label>
+		<TextField id="txtUser" hintText="User"></TextField>
+		<Label id="lblPass" top="15%">Password</Label>
+		<TextField id="txtPass" hintText="Password"></TextField>
+		<Button id="btnLogin" bottom="10%">Entrar</Button>
+		<Button id="btnRegister" bottom="5%">Registrar</Button>
+
+	</Window>
+</Alloy>

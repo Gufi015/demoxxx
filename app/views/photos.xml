@@ -1,0 +1,7 @@
+<Alloy>
+	<Window id="win" layout="vertical" backgroundColor="white">
+		<!-- <ScrollableView showPagingControl="true">
+			<View id="view" layout="vertical"></View>
+		</ScrollableView> -->
+	</Window>
+</Alloy>
